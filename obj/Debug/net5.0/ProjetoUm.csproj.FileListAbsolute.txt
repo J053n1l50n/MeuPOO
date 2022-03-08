@@ -1,0 +1,16 @@
+C:\Users\Nilma\Documents\ProjetoUm\bin\Debug\net5.0\ProjetoUm.exe
+C:\Users\Nilma\Documents\ProjetoUm\bin\Debug\net5.0\ProjetoUm.deps.json
+C:\Users\Nilma\Documents\ProjetoUm\bin\Debug\net5.0\ProjetoUm.runtimeconfig.json
+C:\Users\Nilma\Documents\ProjetoUm\bin\Debug\net5.0\ProjetoUm.runtimeconfig.dev.json
+C:\Users\Nilma\Documents\ProjetoUm\bin\Debug\net5.0\ProjetoUm.dll
+C:\Users\Nilma\Documents\ProjetoUm\bin\Debug\net5.0\ref\ProjetoUm.dll
+C:\Users\Nilma\Documents\ProjetoUm\bin\Debug\net5.0\ProjetoUm.pdb
+C:\Users\Nilma\Documents\ProjetoUm\obj\Debug\net5.0\ProjetoUm.csproj.AssemblyReference.cache
+C:\Users\Nilma\Documents\ProjetoUm\obj\Debug\net5.0\ProjetoUm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nilma\Documents\ProjetoUm\obj\Debug\net5.0\ProjetoUm.AssemblyInfoInputs.cache
+C:\Users\Nilma\Documents\ProjetoUm\obj\Debug\net5.0\ProjetoUm.AssemblyInfo.cs
+C:\Users\Nilma\Documents\ProjetoUm\obj\Debug\net5.0\ProjetoUm.csproj.CoreCompileInputs.cache
+C:\Users\Nilma\Documents\ProjetoUm\obj\Debug\net5.0\ProjetoUm.dll
+C:\Users\Nilma\Documents\ProjetoUm\obj\Debug\net5.0\ref\ProjetoUm.dll
+C:\Users\Nilma\Documents\ProjetoUm\obj\Debug\net5.0\ProjetoUm.pdb
+C:\Users\Nilma\Documents\ProjetoUm\obj\Debug\net5.0\ProjetoUm.genruntimeconfig.cache
